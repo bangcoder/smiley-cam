@@ -8,11 +8,18 @@
     "eject": "expo eject"
   },
   "dependencies": {
+    "eslint": "^6.2.1",
     "expo": "^34.0.1",
+    "expo-camera": "^6.0.0",
+    "expo-face-detector": "^6.0.0",
+    "expo-file-system": "^6.0.2",
+    "expo-media-library": "^6.0.0",
+    "global": "^4.4.0",
     "react": "16.8.3",
     "react-dom": "^16.8.6",
     "react-native": "https://github.com/expo/react-native/archive/sdk-34.0.0.tar.gz",
-    "react-native-web": "^0.11.4"
+    "react-native-web": "^0.11.4",
+    "styled-components": "^4.3.2"
   },
   "devDependencies": {
     "babel-preset-expo": "^6.0.0"
